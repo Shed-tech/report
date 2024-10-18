@@ -1,0 +1,94 @@
+html, body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+nav{
+    background-color: brown;
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.nav-item > a{
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    margin: 5px;
+
+}
+.nav-item > a:hover{
+    color: wheat;
+}
+.nav-item{
+    margin: 20px;
+}
+
+.hero{
+    height: 350px;
+    color:  black; 
+    margin: 20px;
+    padding: 30px;   
+}
+.int{
+    height: 200px;
+    margin: 10px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/abu.JPG);
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    /* background: linear-gradient(brown,white); */
+}
+.att{
+    color: white;
+    text-decoration: none;
+}
+.attend{
+    margin-top: 80px;
+}
+/* .web{
+    height: 200px;
+    color: white;
+    margin: 10px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/abu.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background: linear-gradient( brown,white); */
+.logo-img{
+    border-radius: 50%;
+}
+
+footer{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    height: 80px;
+    /* position: fixed; */
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 990;
+    margin-top: 200px;
+}
+.int > div >a{
+    text-decoration: none;
+    color: white;
+}
+.web > div >a{
+    text-decoration: none;
+    color: white;
+}
+@media (max-width: 590px) {
+    .hero{
+        height: 700px;  
+    }
+    .program{
+        height: 400px;
+    }
+    footer{
+        margin-top: 50px;
+    }
+}
