@@ -32,15 +32,80 @@ nav{
     margin: 20px;
     padding: 30px;   
 }
-.int{
+.int1{
     height: 200px;
     margin: 10px;
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/abu.JPG);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/experience.JPG);
     background-size: cover;
     color: white;
     background-repeat: no-repeat;
     /* background: linear-gradient(brown,white); */
 }
+.int2{
+    height: 200px;
+    margin: 10px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/internet.JPG);
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    /* background: linear-gradient(brown,white); */
+}
+.int3{
+    height: 200px;
+    margin: 10px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/company.JPG);
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    /* background: linear-gradient(brown,white); */
+}
+.int4{
+    height: 200px;
+    margin: 10px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/vscode.JPG);
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    /* background: linear-gradient(brown,white); */
+}
+.int5{
+    height: 200px;
+    margin: 10px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/web.JPG);
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    /* background: linear-gradient(brown,white); */
+}
+.int6{
+    height: 200px;
+    margin: 10px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/git.PNG);
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    /* background: linear-gradient(brown,white); */
+}
+.int7{
+    height: 200px;
+    margin: 10px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/attendance.PNG);
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    /* background: linear-gradient(brown,white); */
+}
+.int8{
+    height: 200px;
+    margin: 10px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url(../image/weeks.PNG);
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    /* background: linear-gradient(brown,white); */
+}
+
+
 .att{
     color: white;
     text-decoration: none;
